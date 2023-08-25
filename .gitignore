@@ -1,0 +1,6 @@
+notes_*
+*.swp
+deploy
+legacy
+test
+~test

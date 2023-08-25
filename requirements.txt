@@ -1,0 +1,12 @@
+numpy>=1.21.6
+pandas>=1.3.5
+regex>=2.5.127
+scikit-learn==1.0.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+dash==2.11.1
+plotly==5.15.0
+statsmodels==0.13.5
+yfinance==0.2.26
+gunicorn>=20.0.4
